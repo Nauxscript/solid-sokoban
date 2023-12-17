@@ -1,58 +1,31 @@
-<h5 align='center'>
-<b>Lightweight Vite Starter Template for Solid</b>
-</h5>
+<h4 align='center'>
+<b>一个使用 TDD（测试驱动开发）模式的基于 SolidJS 的推箱子游戏</b>
+</h4>
 
-<h6 align='center'>
-<a href="https://vitesse-lite-solid.vercel.app/">Live Demo</a>
-</h6>
+<h5 align='center'>
+<a href="https://solid-sokoban.vercel.app/" target="_blank">在线例子</a>
+</h5>
 
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/Nauxscript/vitesse-lite-solid/blob/main/README.zh-CN.md">简体中文</a>
+<b><a href="https://github.com/Nauxscript/solid-sokoban/blob/main/README.md">English</a></b> | <b>简体中文</b>
 </p>
 
-## Features
+<br>
 
-- ⚡️ [Solid](https://github.com/solidjs/solid), [Vite 4](https://github.com/vitejs/vite), [pnpm](https://pnpm.io/), [ESBuild](https://github.com/evanw/esbuild) - born with fastness
+## Description
 
-- 📦 [Components auto importing](./src/components)
+Todo...
 
-- 🎨 [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+## Usage
 
-- 😃 Use icons from any icon sets in [Pure CSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+运行并访问 [http://localhost:5354](http://localhost:5354)
 
-- ✅ Use [Vitest](http://vitest.dev/) for unit and components testing
-
-- 🦾 TypeScript, of course
-
-- ️⛰️ Deploy on Vercel, zero-config
-
-- 🧰 Integrated [`solid-start](https://github.com/solidjs/solid-start)，It provides the following features.
-  -  🗂 File based routing
-  -  📚 Supports all rendering modes: SSR \ CSR \ SSG \ Streaming SSR.
-  -  💄 CSS Modules, SASS/SCSS Support
-  -  and much more features...
-
-> Note: This template must use `Node 18` because [`solid-start v0.3.x](https://github.com/solidjs/solid-start) require it.
-
-## Try it now!
-
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/Nauxscript/vitesse-lite-solid/generate).
-
-### Clone to local
-
-If you prefer to do it manually with the cleaner git history
-
-```bash
-npx degit Nauxscript/vitesse-lite-solid my-solid-app
-cd my-solid-app
-pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+```
+pnpm run dev
 ```
 
 ## Credits
 
-- Inspired by [vitesse](https://github.com/antfu/vitesse)
-- [vitesse-solid](https://github.com/xbmlz/vitesse-solid)
+- 基于 [vitesse-lite-solid](https://github.com/Nauxscript/vitesse-lite-solid) 项目模板构建. 如果该模板对你有用，动动在码代码的小手给个 ⭐ ️吧, 欢迎 PR！

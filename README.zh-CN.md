@@ -1,33 +1,31 @@
-<h5 align='center'>
-<b>基于 Vite 的轻量级 Solid 开发模板</b>
-</h5>
+<h4 align='center'>
+<b>a Real-World Sokoban based on TTD (Test-Driven Development) using SolidJS</b>
+</h4>
 
-<h6 align='center'>
-<a href="https://vitesse-lite-solid.vercel.app/">在线 Demo</a>
-</h6>
+<h5 align='center'>
+<a href="https://solid-sokoban.vercel.app/" target="_blank">Live Demo</a>
+</h5>
 
 <br>
 
 <p align='center'>
-<a href="https://github.com/Nauxscript/vitesse-lite-solid/blob/main/README.md">English</a> | <b>简体中文</b>
+<b>English</b> | <a href="https://github.com/Nauxscript/solid-sokoban/blob/main/README.zh-CN.md">简体中文</a>
 </p>
 
 <br>
 
-## 特性
+## Description
 
-- ⚡️ [Solid](https://github.com/solidjs/solid), [Vite 4](https://github.com/vitejs/vite), [pnpm](https://pnpm.io/), [ESBuild](https://github.com/evanw/esbuild) - 就是快！
+Todo...
 
-- 🗂 [基于文件的路由(缺少描述...)]()
+## Usage
 
-- 📦 [组件自动化加载](./src/components)
+Just run and visit [http://localhost:5354](http://localhost:5354)
 
-- 🎨 [UnoCSS](https://github.com/unocss/unocss) - 高性能且极具灵活性的即时原子化 CSS 引擎
+```
+pnpm run dev
+```
 
-- 😃 [各种图标集为你所用](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+## Credits
 
-- ✅ 使用 [Vitest](http://vitest.dev/) 进行单元和组件测试
-
-- 🦾 TypeScript, 当然
-
-- ⛰️ 零配置部署 Netlify
+- Built using the [vitesse-lite-solid](https://github.com/Nauxscript/vitesse-lite-solid) startup template. If you find it useful, please star the repository, and PR is welcome!

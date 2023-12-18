@@ -1,4 +1,6 @@
-export const level1 = [
+import { MapData } from "./map.types";
+
+export const level1:MapData = [
   [0, 0, 1, 1, 1, 0, 0, 0],
   [0, 0, 1, 3, 1, 0, 0, 0],
   [0, 0, 1, 0, 1, 1, 1, 1],
